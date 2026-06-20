@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+
+.one{
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border: 5px;
+    border-color: white;
+    border-style: solid;
+}
+
+.two{
+    color: white;
+    text-align: center;
+}
+
+.p1{
+    color: white;
+    text-align: center;
+}
+
+b{
+    color: red;
+}
+
+.three{
+    color:white;
+}
+
+.large{
+    color: white;
+    font-size: 75px;
+}
+
+.a1{
+    border: 3px;
+    border-color: white;
+    border-style: solid;
+    font-size: 25px;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
+
+video{
+    width: 500px;
+    height: 500px;
+}
+
+address{
+    color: white;
+}
